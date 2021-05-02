@@ -392,8 +392,9 @@ section
 {
 	color: #333;
 }
-.copyrightText span
+.copyrightText span a
 {
+	text-decoration: none;
 	color: #FF5733;
 }
 
